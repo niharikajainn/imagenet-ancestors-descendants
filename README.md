@@ -10,23 +10,6 @@ is_a.txt lists all parent-child pairs of WordNet IDs.
 This program takes in a keyword input and outputs a text file with, for all synonym sets which include the keyword, synonym set, gloss, and list of descendents and ancestors.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 George A. Miller (1995). WordNet: A Lexical Database for English.
-Communications of the ACM Vol. 38, No. 11: 39-41.
-
+  Communications of the ACM Vol. 38, No. 11: 39-41.
 Christiane Fellbaum (1998, ed.) WordNet: An Electronic Lexical Database. Cambridge, MA: MIT Press.
